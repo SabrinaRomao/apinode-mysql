@@ -1,3 +1,3 @@
 # apinode-mysql
 # get
-![get](apinode-mysql/docs/getsql.png>)
+![get](img src="https://github.com/SabrinaRomao/apinode-mysql/blob/master/docs/getsql.PNG")
