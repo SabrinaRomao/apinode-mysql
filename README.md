@@ -1,3 +1,2 @@
 # apinode-mysql
-# get
-# ![alt text](<img src="C:\Users\sabrina.romao.franca\Pictures\getsql.png">)
+![Get](<img src="C:\Users\sabrina.romao.franca\Pictures\getsql.png">)
