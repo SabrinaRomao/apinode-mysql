@@ -1,3 +1,3 @@
 # apinode-mysql
 # get
-![get](<img src=\apinode-mysql\docs\getsql.png>)
+![get](apinode-mysql\docs\getsql.png>)
